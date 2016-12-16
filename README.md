@@ -1,3 +1,2 @@
-# New-Project
-It is a new one
-change the word 
+CMS
+The CMS project with PHP
